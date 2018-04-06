@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">quanlythuchi</string>
+    <string name="noidung">Mục đích</string>
+    <string name="sotien">Số tiền</string>
+    <string name="hinhthuc">Hình thức</string>
+    <string name="thu">Thu</string>
+    <string name="Chi">Chi</string>
+    <string name="hindND">Nhập nội dung</string>
+    <string name="hindSoTien">Nhập số tiền</string>
+    <string name="btnThem">Thêm</string>
+    <string name="btnNhap">Nhập lại</string>
+    <string name="btnShow">XEM</string>
+    <string name="tiltle">Nhập nội dung Thu/Chi</string>
+
+</resources>
